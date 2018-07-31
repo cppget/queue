@@ -1,0 +1,4 @@
+This is a git repository of the queue.cppget.org package repository. That is,
+every addition, removal, or transition of a package in queue.cppget.org is
+tracked in this git repository. Note, however, that old history may be trimmed
+from time to time.
