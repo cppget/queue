@@ -2,3 +2,22 @@ This is a git repository of the queue.cppget.org package repository. That is,
 every addition, removal, or transition of a package in queue.cppget.org is
 tracked in this git repository. Note, however, that old history may be trimmed
 from time to time.
+
+The queue recreates a subset of the public repository sections in order to
+mirror the availability of the prerequisite packages. In other words, we don't
+want a queued stable package to resolve its dependencies from the queued alpha
+package. The section structure is as follows, vertical arrows are complements
+while horizontal -- prerequisites.
+
+queue        public
+-----        ------
+
+alpha   ===> alpha
+ ||
+ ||
+ \/
+beta    ===> beta
+ ||
+ ||
+ \/
+testing ===> testing
