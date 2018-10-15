@@ -1,0 +1,5 @@
+: 1
+name: genuuid
+author-name: Boris Kolpackov
+author-email: boris@codesynthesis.com
+control: https://github.com/boris-kolpackov/genuuid.git
