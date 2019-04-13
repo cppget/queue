@@ -1,0 +1,5 @@
+: 1
+name: libdiffpp
+author-name: bogdan tudoran
+author-email: tfbogdan@gmail.com
+control: https://github.com/tfbogdan/diffpp.git
