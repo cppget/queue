@@ -1,0 +1,5 @@
+: 1
+name: libstud-json
+author-name: Francois Kritzinger
+author-email: francois@codesynthesis.com
+control: https://github.com/libstud/libstud-json.git
