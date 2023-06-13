@@ -1,0 +1,5 @@
+: 1
+name: libsigcplusplus
+author-name: Swat SomeBug
+author-email: swat.somebug@gmail.com
+control: https://github.com/build2-packaging/libsigcplusplus.git
