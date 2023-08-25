@@ -2,4 +2,4 @@
 name: libtinyexr
 author-name: lyrahgames
 author-email: lyrahgames@mailbox.org
-control: https://github.com/lyrahgames/build2-tinyexr.git
+control: https://github.com/build2-packaging/tinyexr.git
