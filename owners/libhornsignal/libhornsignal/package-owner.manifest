@@ -1,0 +1,5 @@
+: 1
+name: libhornsignal
+author-name: Horn Notes
+author-email: info@hornguns.com
+control: https://gitlab.com/horngun-glossary/libhornsignal.git
